@@ -7,6 +7,10 @@ addpath('./funcs/');
 load([dir_db '/our_annotation/Image_ID_List.mat']); % We get "Image_ID_List"
 num_im = size(Image_ID_List, 1);
 
+mkdir('./visualization')
+mkdir('./result/proposed')
+mkdir('./result/proposed_h')
+
 % ---------------------------------------------------------------------------
 % Parameter initialization
 % ---------------------------------------------------------------------------
