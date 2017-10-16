@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # Download db files
-wget https://drive.google.com/open?id=0B3I8lb-AmFN-SWctMWZSS3QtSGc
-unzip YorkUrbanDB.tar.gz -d ./db
+wget https://www.dropbox.com/s/irpeiejekbgy383/YorkUrban-LineSegment.zip
+
+unzip YorkUrban-LineSegment.zip -d ./YorkUrbanDB
 
