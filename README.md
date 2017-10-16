@@ -13,7 +13,7 @@ Followings are brief description of each script.
 
 - Directories: "DB" contains the original and proposed annotation sets. We provide a script which downloads the DB. "funcs" and "toolbox" contain several functions, such as steps in the paper and others. "result" store detection results of proposed method. "visualization" stores detection results drawn on each image.
 
-Please note that current version is not well optimized. We plan to optimize and re-write in C-language when it is possible.
+Please note that current version is not well optimized. We plan to optimize and re-write in C language when it is possible.
 
 If you find the code or dataset useful, please consider citing the following
 
