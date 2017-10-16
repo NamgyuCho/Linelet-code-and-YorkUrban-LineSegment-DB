@@ -12,3 +12,20 @@ Followings are brief description of each script.
 - Directories: "DB" contains the original and proposed annotation sets. The file link is not made yet. "funcs" and "toolbox" contain several functions, such as steps in the paper and others. "result" store detection results of proposed method. "visualization" stores detection results drawn on each image.
 
 Please note that current version is not well optimized. 
+
+If you find the code useful, please consider citing the following
+
+```
+@ARTICLE{Namgyu2017TPAMI, 
+  author={N. G. Cho and A. Yuille and S. W. Lee}, 
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={A Novel Linelet-based Representation for Line Segment Detection}, 
+  year={2017}, 
+  volume={PP}, 
+  number={99}, 
+  pages={1-1}, 
+  doi={10.1109/TPAMI.2017.2703841}, 
+  ISSN={0162-8828}, 
+  month={},
+}
+```
