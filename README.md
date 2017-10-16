@@ -10,3 +10,4 @@ Followings are brief description of each script. .
 - Demo_evaluation_OriginalYorkUrban.m: same as "Demo_evaluation.m" except the original annotation set [11] is used as ground truth. 
 
 - Directories: "DB" contains the original and proposed annotation sets. "funcs" and "toolbox" contain several functions, such as steps in the paper and others. "result" store detection results of all methods including HT, PPHT, LSD, LSDi, Edline, Linelet_H, and Linelet. "visualization" stores detection results drawn on each image.
+
