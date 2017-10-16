@@ -1,7 +1,7 @@
 # Linelet
 A Novel Linelet-based Representation for Line Segment Detection.
 
-Link to the <a href='http://ieeexplore.ieee.org/document/7926451/'>paper</a>
+Link to the <a href='http://ieeexplore.ieee.org/document/7926451/'>paper</a>.
 
 Followings are brief description of each script.
 
