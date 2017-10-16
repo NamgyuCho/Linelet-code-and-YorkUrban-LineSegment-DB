@@ -15,7 +15,7 @@ Followings are brief description of each script.
 
 Please note that current version is not well optimized. We plan to optimize and re-write in C-language when it is possible.
 
-If you find the code useful, please consider citing the following
+If you find the code or dataset useful, please consider citing the following
 
 ```
 @ARTICLE{Namgyu2017TPAMI, 
@@ -27,8 +27,21 @@ If you find the code useful, please consider citing the following
   number={99}, 
   pages={1-1}, 
   doi={10.1109/TPAMI.2017.2703841}, 
-  ISSN={0162-8828}, 
-  month={},
+  ISSN={0162-8828}
 }
 ```
 
+For database usage, we also recommend you to cite the original YorkUrban DB paper,
+
+```
+@Inbook{Denis2008,
+  author="Denis, Patrick and Elder, James H. and Estrada, Francisco J.",
+  title="Efficient Edge-Based Methods for Estimating Manhattan Frames in Urban Imagery",
+  bookTitle="Computer Vision -- ECCV 2008: 10th European Conference on Computer Vision, Marseille, France, October 12-18, 2008, Proceedings, Part II",
+  year="2008",
+  publisher="Springer Berlin Heidelberg",
+  pages="197--210",
+  isbn="978-3-540-88688-4",
+  doi="10.1007/978-3-540-88688-4_15"
+}
+```
