@@ -1,6 +1,8 @@
 # Linelet
 A Novel Linelet-based Representation for Line Segment Detection.
 
+Link to the <a href='http://ieeexplore.ieee.org/document/7926451/'>paper</a>
+
 Followings are brief description of each script.
 
 - Demo_main.m: our method is implemented in this script. Please note that current version has been updated since submission for better performance -- the results reported in the paper are stored in "./result/proposed" folder. For an example demonstration, we set this script to detect from image #22 of the dataset. To run over the whole image, you can modify the loop part (line 31) of the code.
@@ -29,3 +31,4 @@ If you find the code useful, please consider citing the following
   month={},
 }
 ```
+
